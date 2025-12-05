@@ -1,3 +1,12 @@
+// public -> Acessivel de todo lugar
+// default -> Quando eu não defino, ele segue esse daqui
+// private -> Acessivel somente dentro da classe que foi definido
+// protected -> Acessivel por todo mundo que esta no mesmo pacote
+
+
+
+
+
 public class objt {
     public static void main(String[] args) {
         Carro meuCarro = new Carro("BMW");
